@@ -1,0 +1,10 @@
+requests>=2.31
+beautifulsoup4>=4.12
+markdownify>=0.11
+python-frontmatter>=1.1
+anthropic>=0.40
+httpx[socks]>=0.27
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-dotenv>=1.0
+pydantic>=2.6
